@@ -1,0 +1,8 @@
+title: James Fehr
+description: Web & Tech Solutions Guy
+google_analytics: UA-854428-5
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
