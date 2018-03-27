@@ -16,6 +16,6 @@ url: https://hola.fgvl.co
 twitter_username: videomonkey
 github_username: videomonkey
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-feed
