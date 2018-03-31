@@ -2,8 +2,7 @@
 title: Hello world
 date: 2018-03-27 11:51:01 Z
 categories:
-- jekyll
-- update
+- thoughts
 layout: post
 ---
 
