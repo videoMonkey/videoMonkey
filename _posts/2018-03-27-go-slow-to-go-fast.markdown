@@ -1,6 +1,6 @@
 ---
 title: Hello world
-date: 2018-03-27 11:51:01 Z
+date: 2018-03-27 13:51:01 +02:00
 categories:
 - thoughts
 layout: post
