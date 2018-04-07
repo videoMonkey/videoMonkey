@@ -1,10 +1,5 @@
 ---
 title: Hola.
-<<<<<<< HEAD
-description: 'My name is Jamie Fehr. I am happily married in Malaga,  Spain.'
-messenger_url: https://m.me/videomonkey43
-google_analytics:
-=======
 timezone: Europe/Madrid
 collections:
   posts:
@@ -16,7 +11,6 @@ collections:
 description: My name is Jamie Fehr. I am happily married in Malaga,  Spain.
 messenger_url: https://m.me/fgvlco
 google_analytics: 
->>>>>>> f0534222705037b21d032a5366106f324bcc65d5
 theme: jekyll-theme-minimal
 email: jamiefehr@fastmail.es
 baseurl: 
