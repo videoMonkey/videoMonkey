@@ -1,6 +1,8 @@
 ---
 title: Moot
 date: 2018-04-07 09:58:00 +02:00
+tags:
+- words-that-dont-mean-what-you-think
 ---
 
 **[Moot](https://www.merriam-webster.com/dictionary/moot)**
