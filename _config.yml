@@ -1,0 +1,23 @@
+---
+title: Hola.
+timezone: Europe/Madrid
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: My name is Jamie Fehr. I am happily married in Malaga,  Spain.
+messenger_url: https://m.me/fgvlco
+google_analytics: 
+theme: jekyll-theme-minimal
+email: jamiefehr@fastmail.es
+baseurl: 
+url: https://hola.fgvl.co
+twitter_username: videomonkey
+github_username: videomonkey
+bitbucket_username: videomonkey
+markdown: kramdown
+plugins:
+- jekyll-feed
