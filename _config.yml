@@ -9,9 +9,7 @@ collections:
     title: Uploads
     output: true
 description: My name is Jamie Fehr. I am happily married in Malaga,  Spain.
-messenger_url: https://m.me/fgvlco
-google_analytics: 
-theme: jekyll-theme-minimal
+theme: minima
 email: jamiefehr@fastmail.es
 baseurl: 
 url: https://hola.fgvl.co
